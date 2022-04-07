@@ -1,1 +1,1 @@
-<h1> <center> First Landing Page <center> </h1> 
+<h1 align="center"> First Landing Page </h1> 
